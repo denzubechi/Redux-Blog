@@ -1,0 +1,19 @@
+.textInput {
+  height: 40px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px 0px 8px 16px;
+  background: #ffffff;
+  border-radius: 8px;
+  border: none;
+  color: #110726;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: "Inter", sans-serif;
+}
+.textInput:focus {
+  border: none;
+}
